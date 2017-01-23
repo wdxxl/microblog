@@ -2,6 +2,7 @@
 [Link: Flaks Mega Tutorials](http://www.pythondoc.com/flask-mega-tutorial/index.html)
 
 01. [HelloWorld](http://www.pythondoc.com/flask-mega-tutorial/helloworld.html)
+02. [Templates](http://www.pythondoc.com/flask-mega-tutorial/templates.html)
 
 Steps of Flask Tutorials:
     
